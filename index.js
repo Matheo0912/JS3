@@ -42,3 +42,9 @@ for (let i = 1; i <= 5; i++) {
     tekst += "#"
     console.log(tekst);
 }
+
+// oppg 9
+ for (i = 1; i <= 6; i++) {
+   document.writeln(`<h${i}>Røyken VGS er BEST</h${i}>`);
+}
+ 
